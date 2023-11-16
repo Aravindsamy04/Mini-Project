@@ -1,4 +1,4 @@
-### EX NO : 10 Mini Project
+#  EX NO 10 Mini Project
 # Rainfall Analysis of India
 # DATE : 09/11/2023
 # Description :
